@@ -1,0 +1,27 @@
+{
+  "name": "rx-idle",
+  "version": "1.0.0",
+  "author": "Hoang Tran<hayden.tran.d@gmail.com>",
+  "keywords": [
+    "angular7",
+    "idle"
+  ],
+  "description": "Lirary to detect user in-activity on angular 7",
+  "peerDependencies": {
+    "@angular/common": "^7.2.0",
+    "@angular/core": "^7.2.0"
+  },
+  "main": "bundles/rx-idle.umd.js",
+  "module": "fesm5/rx-idle.js",
+  "es2015": "fesm2015/rx-idle.js",
+  "esm5": "esm5/rx-idle.js",
+  "esm2015": "esm2015/rx-idle.js",
+  "fesm5": "fesm5/rx-idle.js",
+  "fesm2015": "fesm2015/rx-idle.js",
+  "typings": "rx-idle.d.ts",
+  "metadata": "rx-idle.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
